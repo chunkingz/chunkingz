@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chunkingz
 - 👀 I’m a Software Engineer with a bit of xp in Cyber Security, and DevOps
-- 🌱 I’m currently learning Java while doing my masters degree and working as a Typescript Fullstack developer
+- 🌱 I’m currently learning Java while doing my masters degree and working as a Fullstack developer
 - 💞️ I’m looking to collaborate on open source tools
 - 📫 You can reach me via email: kingstonfortune@hotmail.com
 
